@@ -3,7 +3,7 @@ The Watch me work as a streamer website, showing different categories, rating of
 It was a challenge from RocketSeat bootcamp.
 
 <div align="center">
-<img src="src/assets/watchme.gif" width="300" height="600"/>
+<img src="src/styles/watchme.gif" width="300" height="600"/>
 </div>
 
 
