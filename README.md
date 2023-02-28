@@ -9,5 +9,5 @@ It was a challenge from RocketSeat bootcamp.
 
 
 ## Components 
-- React Native 
+- React JS 
 - TypeScript 
